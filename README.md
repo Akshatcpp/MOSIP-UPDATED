@@ -73,7 +73,7 @@ The container serves the Flask API at /api and the built React app as static fil
 
 ## Notes
 
-- Models used: microsoft/trocr-base-handwritten and microsoft/trocr-base-printed
-- Verification uses Levenshtein distance for confidence scoring
-- The frontend supports manual correction of extracted data before verification
+- Models used: microsoft/trocr-base-handwritten and microsoft/trocr-base-printed.
+- Verification uses Levenshtein distance for confidence scoring.
+- The frontend supports manual correction of extracted data before verification.
 
